@@ -6,7 +6,7 @@ My name is Danil, I am 16 years old.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 You can contact me via:
-    - Telegram | [`*click*`](https://t.me/itzme1on)
-    - Reddit | [`*click*`](https://www.reddit.com/user/itzme1on)
-    - VKontakte | [`*click*`](vk.me/itzme1on)
+    - Telegram - [`*click*`](https://t.me/itzme1on)
+    - Reddit - [`*click*`](https://www.reddit.com/user/itzme1on)
+    - VKontakte - [`*click*`](vk.me/itzme1on)
 - ⚡ Fun fact: ...
