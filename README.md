@@ -9,4 +9,4 @@ My name is **Danil**. I am **16** years old. I am from **Russia**, **Kaliningrad
     - VKontakte - [`*click*`](vk.me/itzme1on)
 
 ## My projects 📃
-- There are no ready-made projects yet ;(
+There are no ready-made projects yet ;(
