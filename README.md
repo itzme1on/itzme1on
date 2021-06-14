@@ -11,4 +11,3 @@ My name is **Danil**. I am **16** years old. I am from **Russia**, **Kaliningrad
 ## My projects 📃
 - 🔮 Discord Bots:
     - 📊 Faceit Stats - [`View repository`](https://github.com/itzme1on/faceitstats)
-    - 🎈 АРБУЗИК - [`View repository`](https://github.com/itzme1on/itzme1on-discord-bot)
