@@ -9,10 +9,10 @@ My name is **Danil**. I am **16** years old. I am from <img src="https://image.f
   - <img src="https://image.flaticon.com/icons/svg/893/893257.svg" width="15"> Email - <melongames@mail.ru>
 
 
-## 📃 My projects
+## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
 - <img src="https://image.flaticon.com/icons/svg/2111/2111370.svg" width="15"> Discord Bots:
     - Faceit Stats - [`View repository`](https://github.com/itzme1on/faceitstats)
 
 
-## 📊 Profile statistic
+## <img src="https://image.flaticon.com/icons/svg/921/921591.svg" width="25"> Profile statistic
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzme1on&show_icons=true)
