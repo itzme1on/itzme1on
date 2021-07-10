@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=itzme1on&label=profile%20views&color=0e75b6&style=flat-square" alt="ravener" /> <a><img src="https://img.shields.io/github/last-commit/itzme1on/faceitstats?style=flat-square"></a></p>
 
 My name is **Danil**. I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> **Russia**, **Kaliningrad**.
 
