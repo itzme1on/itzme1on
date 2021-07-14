@@ -14,4 +14,7 @@ My name is **Danil**. I am **16** years old. I am from <img src="https://image.f
 
 
 ## <img src="https://image.flaticon.com/icons/svg/921/921591.svg" width="25"> Profile statistic
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzme1on&show_icons=true)
+<div align="center">
+  <img alt="itzme1on's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itzme1on&show_icons=true">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
