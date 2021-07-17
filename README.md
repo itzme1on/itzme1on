@@ -7,7 +7,6 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   - <img src="https://image.flaticon.com/icons/svg/2111/2111646.svg" width="15"> Telegram - [`*click*`](https://t.me/itzme1on)
   - <img src="https://image.flaticon.com/icons/svg/893/893257.svg" width="15"> Email - <melongames@mail.ru>
 
-
 ## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
 <div>
   <a href="https://github.com/itzme1on/faceitstats">
@@ -23,3 +22,5 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   <img alt="itzme1on's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itzme1on&show_icons=true&hide=prs">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
+
+<h4 align="center">Other info – <a href='https://itzme1on.github.io' target="_blank">itzme1on.github.io</a><h4>
