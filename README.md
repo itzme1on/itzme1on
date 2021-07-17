@@ -13,6 +13,9 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   <a href="https://github.com/itzme1on/faceitstats">
     <img alt="Faceit Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=faceitstats&icon_color=ffb938&title_color=ffb938&show_owner=true">
   </a>
+  <a href="https://github.com/itzme1on/itzme1on.github.io">
+    <img alt="Faceit Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=itzme1on.github.io&icon_color=ffb938&title_color=ffb938&show_owner=true">
+  </a>
 </div>
 
 ## <img src="https://image.flaticon.com/icons/svg/921/921591.svg" width="25"> Profile statistic
