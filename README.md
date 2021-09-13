@@ -8,12 +8,15 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   - <img src="https://image.flaticon.com/icons/svg/893/893257.svg" width="15"> Email - <melongames@mail.ru>
 
 ## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
-<div>
+<div style="display:flex">
   <a href="https://github.com/itzme1on/faceitstats">
     <img alt="Faceit Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=faceitstats&icon_color=ffb938&title_color=ffb938&show_owner=true">
   </a>
   <a href="https://github.com/itzme1on/itzme1on.github.io">
-    <img alt="Faceit Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=itzme1on.github.io&icon_color=ffb938&title_color=ffb938&show_owner=true">
+    <img alt="My Website" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=itzme1on.github.io&icon_color=ffb938&title_color=ffb938&show_owner=true">
+  </a>
+  <a href="https://github.com/itzme1on/b1ame">
+    <img alt="b1ame's Website" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=b1ame&icon_color=ffb938&title_color=ffb938&show_owner=true">
   </a>
 </div>
 
