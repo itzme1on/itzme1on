@@ -9,14 +9,11 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
 
 ## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
 <div style="display:flex">
+  <a href="https://github.com/itzme1on/faceitstats-2.0">
+    <img alt="Faceit Stats 2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=faceitstats-2.0&icon_color=ffb938&title_color=ffb938&show_owner=true">
+  </a>
   <a href="https://github.com/itzme1on/faceitstats">
     <img alt="Faceit Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=faceitstats&icon_color=ffb938&title_color=ffb938&show_owner=true">
-  </a>
-  <a href="https://github.com/itzme1on/itzme1on.github.io">
-    <img alt="My Website" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=itzme1on.github.io&icon_color=ffb938&title_color=ffb938&show_owner=true">
-  </a>
-  <a href="https://github.com/itzme1on/b1ame">
-    <img alt="b1ame's Website" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=b1ame&icon_color=ffb938&title_color=ffb938&show_owner=true">
   </a>
 </div>
 
@@ -26,4 +23,5 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
-<h4 align="center">Other info – <a href='https://itzme1on.github.io' target="_blank">itzme1on.github.io</a><h4>
+<h4 align="center">Other info – <a href='https://itzme1on.github.io' target="_blank">itzme1on.github.io</a></h4>
+<h4 align="center"><a href="https://wakatime.com/@8a144a29-83ed-462d-ab5b-de0f70cd420b"><img src="https://wakatime.com/badge/user/8a144a29-83ed-462d-ab5b-de0f70cd420b.svg" alt="Total time coded since Jul 15 2021" /></a></h4>
