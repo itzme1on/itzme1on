@@ -4,8 +4,8 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
 
 - 🌱 I’m currently learning Java, JS, HTML, CSS.
 - 💬 You can contact me via:
-  - <img src="https://image.flaticon.com/icons/svg/2111/2111646.svg" width="15"> Telegram - [`*click*`](https://t.me/itzme1on)
-  - <img src="https://image.flaticon.com/icons/svg/893/893257.svg" width="15"> Email - <melongames@mail.ru>
+  - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="15"> Telegram - [`*click*`](https://t.me/itzme1on)
+  - <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="15"> Email - <admin@itzme1on.ru>
 
 ## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
 <div style="display:flex">
