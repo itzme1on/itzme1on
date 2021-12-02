@@ -23,5 +23,5 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
-<h4 align="center">Other info – <a href='https://itzme1on.github.io' target="_blank">itzme1on.github.io</a></h4>
+<h4 align="center">Other info – <a href='https://itzme1on.ru' target="_blank">itzme1on.ru</a></h4>
 <h4 align="center"><a href="https://wakatime.com/@8a144a29-83ed-462d-ab5b-de0f70cd420b"><img src="https://wakatime.com/badge/user/8a144a29-83ed-462d-ab5b-de0f70cd420b.svg" alt="Total time coded since Jul 15 2021" /></a></h4>
