@@ -1,13 +1,12 @@
 <h1>Hi! I'm Danil and I ❤ code.</h1>
 
-I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> **Russia**, **Kaliningrad**.
+I am **16** years old. I am from **Russia**, **Kaliningrad**.
 
 - 🌱 I’m currently learning Java, JS, HTML, CSS.
 - 💬 You can contact me via:
-  - <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" width="15"> Telegram - [`*click*`](https://t.me/itzme1on)
-  - <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" width="15"> Email - <admin@itzme1on.ru>
+  - ✉ Email - <admin@itzme1on.ru>
 
-## <img src="https://image.flaticon.com/icons/svg/2823/2823444.svg" width="25"> My projects
+## 👨‍💻 My projects
 <div style="display:flex">
   <a href="https://github.com/itzme1on/faceitstats-2.0">
     <img alt="Faceit Stats 2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=itzme1on&repo=faceitstats-2.0&icon_color=ffb938&title_color=ffb938&show_owner=true">
@@ -17,7 +16,7 @@ I am **16** years old. I am from <img src="https://image.flaticon.com/icons/svg/
   </a>
 </div>
 
-## <img src="https://image.flaticon.com/icons/svg/921/921591.svg" width="25"> Profile statistic
+## 📊 Profile statistic
 <div>
   <img alt="itzme1on's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=itzme1on&show_icons=true&hide=prs">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
