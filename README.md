@@ -1,6 +1,6 @@
 <h1>Hi! I'm Danil and I ❤ code.</h1>
 
-I am **16** years old. I am from **Russia**, **Kaliningrad**.
+I am **17** years old. I am from **Russia**, **Kaliningrad**.
 
 - 🌱 I’m currently learning Java, JS, HTML, CSS.
 - 💬 You can contact me via:
