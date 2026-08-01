@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=itzme1on&theme=nord&no-frame=true&no-bg=true&margin-w=4&rank=-C&column=7" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=itzme1on&theme=nord&no-frame=true&no-bg=true&margin-w=4&rank=-C&column=6" />
 </p>
 
 
