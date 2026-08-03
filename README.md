@@ -2,6 +2,8 @@
 
 ###
 
+<img width="100%" src="https://github.com/user-attachments/assets/5e13f21a-6b24-484a-b47d-b75953340130" />
+
 <p align="center">hello! my name is Danil. i love coding and build useful things</p>
 
 ###
