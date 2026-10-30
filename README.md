@@ -2,7 +2,7 @@
 
 ###
 
-<img width="100%" src="https://github.com/user-attachments/assets/476a79e1-f09f-4d94-8092-716a3591e8d6" />
+<img width="100%" src="https://github.com/user-attachments/assets/befc254d-2682-47a1-90be-7684138f3b57" />
 
 <p align="center">hello! my name is Danil. i love coding and build useful things</p>
 
